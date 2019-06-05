@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "strictPropertyInitialization": true,
+    "noUnusedLocals": true,
+    "noImplicitAny": true,
+    "declaration": false,
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noEmitHelpers": false,
+    "allowJs": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "types": ["node"],
+    "typeRoots": [ "./node_modules/@types" ]
+  }
+}
